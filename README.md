@@ -1,3 +1,20 @@
+# 这个项目是魔改的，相当于根据业务场景走
+# V100*8并行
+## 目的
+200W张图片的识别+性能最优
+# P40*1 API
+## 目的
+开出来给群友测试玩耍。
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>v
+# 下面是原先说明书
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><a href="">General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model</a></h3>
 
 <a href="https://huggingface.co/ucaslcl/GOT-OCR2_0"><img src="https://img.shields.io/badge/Huggingface-yellow"></a>
